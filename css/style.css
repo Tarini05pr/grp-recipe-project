@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 body {
-  background: url(backgroundsky.jpeg);
+  background: url(./images/backgroundsky.jpeg);
   background-repeat: no-repeat;
   background-size: 2000px 2000px;
   font-family: "Josefin Sans", sans-serif;
